@@ -1,0 +1,9 @@
+[2021-02-08 20:06:22] *||* INFO *||* (logger.py:53) *||* *********** Start Execution ************* 
+
+[2021-02-08 20:06:22] *||* INFO *||* (logger.py:54) *||* Execution Start
+[2021-02-08 20:06:22] *||* INFO *||* (logger.py:55) *||* Type of file to be processed: %s
+[2021-02-08 20:06:22] *||* INFO *||* (student.py:12) *||* Nombre :Ronal
+[2021-02-08 20:06:22] *||* INFO *||* (student.py:13) *||* Age :40
+[2021-02-08 20:06:22] *||* INFO *||* (student.py:26) *||* Nombre :Pepito
+[2021-02-08 20:06:22] *||* INFO *||* (student.py:27) *||* Age :45
+[2021-02-08 20:06:22] *||* INFO *||* (orchestrator.py:17) *||* Input Path D:\\UE\\2020-2021\\EstructuradeDatos\\proyecto\\data_sample_pepito\\prueba.csv

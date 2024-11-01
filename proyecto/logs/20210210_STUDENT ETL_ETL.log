@@ -1,0 +1,9 @@
+[2021-02-10 15:53:06] *||* INFO *||* (logger.py:53) *||* *********** Start Execution ************* 
+
+[2021-02-10 15:53:06] *||* INFO *||* (logger.py:54) *||* Execution Start
+[2021-02-10 15:53:06] *||* INFO *||* (logger.py:55) *||* Type of file to be processed: %s
+[2021-02-10 15:53:06] *||* INFO *||* (student.py:12) *||* Nombre :Maria
+[2021-02-10 15:53:06] *||* INFO *||* (student.py:13) *||* Age :20
+[2021-02-10 15:53:06] *||* INFO *||* (student.py:26) *||* Nombre :Maria
+[2021-02-10 15:53:06] *||* INFO *||* (student.py:27) *||* Age :20
+[2021-02-10 15:53:06] *||* INFO *||* (orchestrator.py:18) *||* Input Path Nombre
